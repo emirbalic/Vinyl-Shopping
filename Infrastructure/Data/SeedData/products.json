@@ -1,0 +1,147 @@
+[
+ {
+   "Name": "Sgt. Pepper's Lonely Hearts Club Band",
+   "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+   "Price": 20,
+   "PictureUrl": "images/products/Sgt._Pepper's_Lonely_Hearts_Club_Band.jpg",
+   "ProductTypeId": 11,
+   "ProductBrandId": 1
+ },
+ {
+   "Name": "Let It Be",
+   "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+   "Price": 15,
+   "PictureUrl": "images/products/Let_it_be.jpg",
+   "ProductTypeId": 12,
+   "ProductBrandId": 1
+ },
+ {
+   "Name": "Exile on Main St.",
+   "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+   "Price": 180,
+   "PictureUrl": "images/products/Stones_Exile.jpg",
+   "ProductTypeId": 10,
+   "ProductBrandId": 2
+ },
+ {
+   "Name": "Some Girls",
+   "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+   "Price": 30,
+   "PictureUrl": "images/products/Stones-Some Girls.jpg",
+   "ProductTypeId": 10,
+   "ProductBrandId": 2
+ },
+ {
+   "Name": "Sticky Fingers",
+   "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+   "Price": 25,
+   "PictureUrl": "images/products/Stones_Sticky_Fingers.jpg",
+   "ProductTypeId": 10,
+   "ProductBrandId": 2
+ },
+ {
+   "Name": "The Rise and Fall of Ziggy Stardust",
+   "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+   "Price": 120,
+   "PictureUrl": "images/products/Bowie_Rise and_Fall.jpg",
+   "ProductTypeId": 9,
+   "ProductBrandId": 4
+ },
+ {
+   "Name": "Diamond Dogs",
+   "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+   "Price": 10,
+   "PictureUrl": "images/products/Bowie_Diamond_Dogs.jpg",
+   "ProductTypeId": 9,
+   "ProductBrandId": 4
+ },
+ {
+   "Name": "Let's Dance",
+   "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+   "Price": 8,
+   "PictureUrl": "images/products/david-bowie-lets-dance.jpg",
+   "ProductTypeId": 2,
+   "ProductBrandId": 4
+ },
+ {
+   "Name": "American Caesar",
+   "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+   "Price": 15,
+   "PictureUrl": "images/products/Iggy_American_Ceaser.jpg",
+   "ProductTypeId": 7,
+   "ProductBrandId": 9
+ },
+ {
+   "Name": "Brick by Brick",
+   "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+   "Price": 18,
+   "PictureUrl": "images/products/Iggy_Pop_Brick_by_Brick.jpg",
+   "ProductTypeId": 7,
+   "ProductBrandId": 9
+ },
+ {
+   "Name": "Sandinista!",
+   "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+   "Price": 15,
+   "PictureUrl": "images/products/The_Clash_Sandinista.jpg",
+   "ProductTypeId": 1,
+   "ProductBrandId": 5
+ },
+ {
+   "Name": "The Clash",
+   "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+   "Price": 16,
+   "PictureUrl": "images/products/The-Clash-Clash.jpg",
+   "ProductTypeId": 1,
+   "ProductBrandId": 5
+ },
+ {
+   "Name": "Charlie Parker - Jam Session (1952)",
+   "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+   "Price": 14,
+   "PictureUrl": "images/products/Charlie_Parker_Jam_Sessions_1952.jpg",
+   "ProductTypeId": 2,
+   "ProductBrandId": 7
+ },
+ {
+   "Name": "Sketches of Spain",
+   "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+   "Price": 250,
+   "PictureUrl": "images/products/Miles_Sketches.jpg",
+   "ProductTypeId": 3,
+   "ProductBrandId": 6
+ },
+ {
+   "Name": "Kind of Blue",
+   "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+   "Price": 189.99,
+   "PictureUrl": "images/products/Miles_Kind_Of_Blue.jpg",
+   "ProductTypeId": 3,
+   "ProductBrandId": 6
+ },
+ {
+   "Name": "Reload",
+   "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+   "Price": 199.99,
+   "PictureUrl": "images/products/Metallica_Reload.jpg",
+   "ProductTypeId": 4,
+   "ProductBrandId": 8
+ },
+ {
+   "Name": "Songs For The Deaf",
+   "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+   "Price": 150,
+   "PictureUrl": "images/products/Qotsa_Songs_for_the_deaf.jpg",
+   "ProductTypeId": 6,
+   "ProductBrandId": 10
+ },
+ {
+   "Name": "The Downward Spiral",
+   "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+   "Price": 180,
+   "PictureUrl": "images/products/Nin_Downward_Spiral.png",
+   "ProductTypeId": 5,
+   "ProductBrandId": 3
+ }
+]
+

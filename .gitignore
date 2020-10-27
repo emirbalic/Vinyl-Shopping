@@ -1,0 +1,8 @@
+obj
+bin
+appsettings.json
+*.db
+*.rdb
+wwwroot
+publish
+/Infrastructure/Identity/VinylAppIdentityDbContextSeed.cs

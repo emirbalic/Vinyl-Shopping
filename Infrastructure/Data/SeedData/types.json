@@ -1,0 +1,50 @@
+[
+ {
+   "Id": 1,
+   "Name": "CBS Records"
+ },
+ {
+   "Id": 2,
+   "Name": "Verve Records"
+ },
+ {
+   "Id": 3,
+   "Name": "Columbia"
+ },
+ {
+   "Id": 4,
+   "Name": "Elektra Records"
+ },
+ {
+   "Id": 5,
+   "Name": "Nothing Records"
+ },
+ {
+   "Id": 6,
+   "Name": "Interscope Records"
+ },
+{
+   "Id": 7,
+   "Name": "Virgin America"
+ },
+{
+   "Id": 8,
+   "Name": "EMI America Records"
+ },
+{
+   "Id": 9,
+   "Name": "RCA Records"
+ },
+{
+   "Id": 10,
+   "Name": "Rolling Stones Records"
+ },
+{
+   "Id": 11,
+   "Name": "Capitol Records"
+ },
+ {
+   "Id": 12,
+   "Name": "Apple"
+ }
+]
